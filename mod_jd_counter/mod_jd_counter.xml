@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extension type="module" version="3.1" client="site" method="upgrade">
    <name>mod_jd_counter</name>
-   <author>JoomDev Team</author>
+   <author>JoomDev</author>
    <creationDate>July 2018</creationDate>
-   <copyright>Copyright (C) 2005 - 2017 Open Source Matters. All rights reserved.</copyright>
+   <copyright>Copyright (C) 2009 - 2018 JoomDev. All rights reserved.</copyright>
    <license>GNU General Public License version 2 or later; see LICENSE.txt</license>
    <authorEmail>info@joomdev.com</authorEmail>
    <authorUrl>www.joomdev.com</authorUrl>
-   <version>3.0.0</version>
+   <version>1.0</version>
    <description>MOD_JD_COUNTER_XML_DESCRIPTION</description>
    <files>
       <filename module="mod_jd_counter">mod_jd_counter.php</filename>

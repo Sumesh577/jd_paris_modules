@@ -1,4 +1,9 @@
-
+/**
+ * @package		JD Counter Module
+ * @Author		JoomDev
+ * @license		GNU/GPL,
+ * @link		www.joomdev.com
+ */
 (function ($) {
     // Skillset Number Counter
     var initskillsetcounter = function () {
